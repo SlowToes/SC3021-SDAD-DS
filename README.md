@@ -1,15 +1,13 @@
 # SC3021-SDAD-DS
 
-## Data Science Question (Subject to Changes)
+## Directory
 
-What is the relationship between specific post characteristics (like video duration, use of trending audio, posting time, and hashtag count) and the likelihood of a post achieving viral status on Social Media?
+* Facebook, Instagram, Tiktok folders contains each of the corresponding datasets which each group member found
 
-### Key words & Definitions
-
-Post characteristics: Time of post, number of shares/likes/comments etc.
-Viral: The content circulates quickly / has high engagement rate
-Social Media: Taking the top 3 social media apps currently (According to wikipedia)
+* Deliverable 1 can be found in the ```deliverable_1``` folder.
 
 ## Tech Stack
 
 Jupyter Notebook / Google Collab
+
+Canva for slides
